@@ -32,3 +32,8 @@ npm start
 
 ## Modalidad de entrega
 * Repositorio público subido a GitHub, Gitlab, Bitbucket.
+
+---
+* Twitch: marcelonieva7
+* Discord: marcelonieva7#7074
+* Email: marcelonieva7@gmail.com
